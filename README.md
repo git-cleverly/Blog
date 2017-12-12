@@ -1,2 +1,2 @@
 # Blog
-Cleverly Blog BY Hexo
+Cleverly Blog By Hexo
